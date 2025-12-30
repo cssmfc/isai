@@ -1,0 +1,55 @@
+The Editor is best used from laptop, desktop or tablet as it offers a better experience for the wider view of the visual components and options available with this editor.
+
+![image](1-editor.png)
+
+# Presentation of the Editor tool
+
+
+3 main areas, each serving their purpose.
+
+1. Live Preview window is the most visible area where user can see and interact with elements of design
+
+![Image](2-live-preview.jpg)
+
+2. Editor floating Panel. This floating panel allow user to change content, inside the Live Preview window.
+Select the element in the Live Preview window and notice that Editor floating Panel is dynamically changing its options for selected element.
+For text blocks it shows a set of options, for images block shows another set of options. Intuitive, simple, but packed with magic.
+
+![image](3-editor-floating-panel.jpg)
+
+*Clone and Delete options*
+Editor panel has two very useful extra options next to the "x" icon on the right.
+- The clone icon (top right, blue button, white icon) 
+- Delete icon (top right, red button, white trash bin icon)
+
+When a block element is selected in the main Preview window, an orange border indicates that the element is selected and Editor offers options for editing.
+This is how to change the image
+1. Select the image in Preview window, one click/touch to activate it
+2. Choose the option to upload image from your library or from device
+
+![image](5-chane-image.png)
+
+
+Change background image
+Much like the previous steps, click/touch outside of visible block element (look for orange borders) and Editor panel is activating available options
+
+![image](6-change-background.png)
+
+Change text block
+Select block in the Preview, type content, change color, font, size, add links or style it up via Editor panel
+
+![image](7-chage-text.png)
+
+![image](8-chage-bg-color-font-color.png)
+
+3. Top Options. This section of the tool is very important too.
+*Insert* button shows what other blocks are available for current template. Not all templates have the same blocks available 
+*Save* button is saving current progress
+*Settings* goes back to settings page before the template is open in editing mode (can be renamed, see install process)
+*Export* Option 1 - Copy HTML code (ready to paste in profile box)
+               Option 2 - Take a screenshot - Save as image
+
+![image]4-top-editor-buttons.jpg)
+
+
+{shape} is suggesting to "Remember to Save the project"
