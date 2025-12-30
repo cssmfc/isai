@@ -13,10 +13,9 @@
 > * **Admin Notes:** it has a transparent background, subject of the image is simulating depth and shadow, can be used as graphic visual enhancement to a header image or as bottom shadow to a section in layout
 > * **Keywords:** full width image, shadow effect, graphic effect, visual shadow effect
 
-> *Demo
-
 ```html
-<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><img src="1000x500px-full-width-header.jpg" style="display:block;width:100%;height:auto;margin:0 auto;"/><img src="black_shadow.png" style="display:block;width:100%;height:auto;margin:0 auto;"/></li>```
+<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><img src="1000x500px-full-width-header.jpg" style="display:block;width:100%;height:auto;margin:0 auto;"/><img src="black_shadow.png" style="display:block;width:100%;height:auto;margin:0 auto;"/></li>
+```
 
 ---
 
@@ -30,7 +29,8 @@
 > * **Keywords:** wide header, fully responsive wide banner, image wide, landscape orientation
 
 ```html
-<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><img src="1000x500px-full-width-header.jpg" style="display:block;width:100%;height:auto;margin:0 auto;"/></li>```
+<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><img src="1000x500px-full-width-header.jpg" style="display:block;width:100%;height:auto;margin:0 auto;"/></li>
+```
 
 ---
 
@@ -44,7 +44,8 @@
 > * **Keywords:** wide header, fully responsive wide banner, image wide, landscape orientation
 
 ```html
-<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><img src="1000x500px-full-width-header.jpg" style="display:block;width:100%;height:300px;margin:0 auto;object-fit:cover;"/></li>```
+<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><img src="1000x500px-full-width-header.jpg" style="display:block;width:100%;height:300px;margin:0 auto;object-fit:cover;"/></li>
+```
 
 ---
 
@@ -58,7 +59,8 @@
 > * **Keywords:** wide header, full width banner, fully responsive wide banner, image wide, landscape orientation
 
 ```html
-<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><img src="1000x300px-full-width-banner.jpg" style="display:block;width:100%;height:auto;margin:0 auto;"/></li>```
+<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><img src="1000x300px-full-width-banner.jpg" style="display:block;width:100%;height:auto;margin:0 auto;"/></li>
+```
 
 ---
 
@@ -72,7 +74,8 @@
 > * **Keywords:** wide header, full width banner, fully responsive wide banner, image wide, landscape orientation
 
 ```html
-<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><img src="cgc-1000x200-header.png" style="display:block;width:100%;height:auto;margin:0 auto;"/></li>```
+<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><img src="cgc-1000x200-header.png" style="display:block;width:100%;height:auto;margin:0 auto;"/></li>
+```
 
 ---
 
@@ -86,7 +89,8 @@
 > * **Keywords:** wide header, full width banner, fully responsive wide banner, image wide, landscape orientation
 
 ```html
-<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><img src="1000x150px-full-width-banner.jpg" style="display:block;width:100%;height:auto;margin:0 auto;"/></li>```
+<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><img src="1000x150px-full-width-banner.jpg" style="display:block;width:100%;height:auto;margin:0 auto;"/></li>
+```
 
 ---
 
@@ -100,7 +104,8 @@
 > * **Keywords:** small header, small micro banner, responsive square banner, image small, square orientation
 
 ```html
-<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><img src="512x512-header-avatar.jpg" style="display:block;max-width:100%;width:300px;min-width:270px;height:auto;margin:0 auto;"/></li>```
+<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><img src="512x512-header-avatar.jpg" style="display:block;max-width:100%;width:300px;min-width:270px;height:auto;margin:0 auto;"/></li>
+```
 
 ---
 
@@ -114,7 +119,8 @@
 > * **Keywords:** small header avatar, small micro banner, responsive round banner, image small, round shape, round avatar
 
 ```html
-<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><img src="512x512-header-avatar.jpg" style="display:block;max-width:100%;width:300px;min-width:270px;height:auto;margin:0 auto;border-radius:100% 100% 100% 100%"/></li>```
+<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><img src="512x512-header-avatar.jpg" style="display:block;max-width:100%;width:300px;min-width:270px;height:auto;margin:0 auto;border-radius:100% 100% 100% 100%"/></li>
+```
 
 ---
 
@@ -128,6 +134,7 @@
 > * **Keywords:** small header avatar, small micro banner, responsive round banner, image small, round shape, round avatar
 
 ```html
-<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><i style="display:block;max-width:100%;width:300px;min-width:270px;height:auto;margin:0 auto;text-align:center;border-radius:100% 100% 100% 100%;font-style:none;box-shadow:0 0 12px #999;padding:1em;border:7px solid rgba(60%,40%,80%,.5);"><img src="512x512-header-avatar.jpg" style="display:block;max-width:100%;width:100%;min-width:200px;height:auto;margin:0 auto;border-radius:100% 100% 100% 100%"/></i></li>```
+<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><i style="display:block;max-width:100%;width:300px;min-width:270px;height:auto;margin:0 auto;text-align:center;border-radius:100% 100% 100% 100%;font-style:none;box-shadow:0 0 12px #999;padding:1em;border:7px solid rgba(60%,40%,80%,.5);"><img src="512x512-header-avatar.jpg" style="display:block;max-width:100%;width:100%;min-width:200px;height:auto;margin:0 auto;border-radius:100% 100% 100% 100%"/></i></li>
+```
 
 ---
