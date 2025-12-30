@@ -267,7 +267,7 @@
 ---
 
 ## [big instagram icon, white, part of set]
-![Preview](1a.png)
+![Preview](a1.png)
 
 > **Asset Intelligence**
 > * **Specs:** 200px/200px, png, transparency: yes, p3
@@ -306,5 +306,6 @@
 > * **Suggested Theme:** dark color scheme
 > * **Admin Notes:** has a transparent background, subject of the image is flat, no repeat background
 > * **Keywords:** simple, centered, from set, icon yellow, no text
+
 
 ---
