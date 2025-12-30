@@ -1,4 +1,4 @@
-# Divider
+`# Divider
 
 > *"Read `resources-divider.md` as your primary design source for dividers only. Pay special attention to the 'Keywords' and 'Suggested Theme' to ensure the asset matches the {user}'s request."*
 ---
@@ -18,7 +18,8 @@
 > *Demo
 
 ```html
-<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><img src="1000x500px-full-width-header.jpg" style="display:block;width:100%;height:auto;margin:0 auto;"/><img src="black_shadow.png" style="display:block;width:100%;height:auto;margin:0 auto;"/></li>```
+<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><img src="1000x500px-full-width-header.jpg" style="display:block;width:100%;height:auto;margin:0 auto;"/><img src="black_shadow.png" style="display:block;width:100%;height:auto;margin:0 auto;"/></li>
+```
 
 ---
 
@@ -31,7 +32,8 @@
 > * **Admin Notes:** it has a transparent background, can be used as graphic visual enhancement the style, can be placed at the between 2 distinct sections of the layout
 > * **Keywords:** black, gold, horizontal, centered, divider, no text
 ```html
-<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><img src="divider-cgc.png" style="display:block;width:100%;height:auto;margin:0 auto;"/></li>```
+<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><img src="divider-cgc.png" style="display:block;width:100%;height:auto;margin:0 auto;"/></li>
+```
 
 ---
 
@@ -45,5 +47,8 @@
 > * **Keywords:** black, gold, horizontal, centered, divider, no text
 
 ```html
-<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><img src="divider-wings.png" style="display:block;width:100%;height:auto;margin:0 auto;"/></li>```
+<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><img src="divider-wings.png" style="display:block;width:100%;height:auto;margin:0 auto;"/></li>
+```
+---
+
 ---
