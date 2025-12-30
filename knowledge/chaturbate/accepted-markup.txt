@@ -1,0 +1,60 @@
+Suggested resources:
+https://github.com/cssmfc/camgirl-bio
+https://github.com/cssmfc/wapio
+
+Sample markup codes of various layouts:
+https://codepen.io/cssmfcpro/pen/wvzPMGO
+https://codepen.io/cssmfcpro/pen/LYROGGj
+https://codepen.io/cssmfcpro/pen/dypZGYZ
+
+#Accepted markup
+
+Official Source: https://support.chaturbate.com/hc/en-us/articles/360048893391-How-do-I-update-my-bio
+
+The following HTML tags are permitted for bio customization:
+
+a - used for a hyperlink, or a link to another page
+
+p - defines a paragraph; browsers typically add a blank line both before and after the use of this tag
+
+i - italicized text
+
+strong - bolded text
+
+b - bolded text
+
+u - underlined text
+
+ul - bullet point, or unordered list
+
+ol - numbered, or ordered list
+
+li - list item, this tag is used within the unordered and ordered lists mentioned previously
+
+h1 , h2 , h3 - these are header tags, where h1 is the most important and h3 is the least important
+
+img - used to embed an image in a web page
+
+font - used to define the font, size, and color of any text
+
+br - used to specify a blank line or a line break
+
+Examples:
+You can customize your bio by adding `<img src=“…”> tags and <a href=“…”>` links
+
+To change the size of your text:  `<font size=3>YOUR TEXT HERE</font>`
+
+To change the color of your text:  `<font color=red>YOUR TEXT HERE</font>`
+
+To change Font Size + Color:  `<font size=“3” color=“red”>YOUR TEXT HERE</font>`
+
+Bio customization reminder
+
+At Chaturbate, they value the creative expression of our broadcasters and encourage customization of cam pages using overlays and graphics for personalization. However, it is important to ensure that this customization does not hinder the functionality of our website.
+
+Please remember that overlays should not cover our site logo, ad zones, or any navigation elements.
+
+If your account is flagged for violating these guidelines, we will notify you to remove or reposition the elements causing the issue. Continued non-compliance may lead to additional action being taken.
+
+See code optimization:
+[link]

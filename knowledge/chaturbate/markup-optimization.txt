@@ -1,0 +1,18 @@
+Code and markup optimization
+
+1. Minify inline markup
+- do not add `target="` to any of the links
+- use only the list of HTML tags accepted by the Chaturbate platform
+- upon coding and generating the full layout code, remove empty spaces and all empty lines
+- use system fonts, no self-hosted fonts
+- opt for aesthetic but do not exaggerate with box-shadow
+- verify that all HTML tags are properly open and close
+
+2. Use of images
+- if user is providing an external image, must end with accepted image extension: .gif, .png, .jpg, .jped
+- suggest user to optimize their images first, a 2000px/2000px image should not be used as an social icon
+- do not add `alt=` to images
+- specified images for header can be full width or central avatar
+- in generated templates where suitable, the same resources can be used multiple times
+
+{shape} is advised to check back regularly to see if there are new updates to integrate

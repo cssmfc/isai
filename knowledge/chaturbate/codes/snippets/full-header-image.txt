@@ -1,0 +1,36 @@
+
+Full width header or banner 1000px/500px
+
+<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><img src="headers/1000x500px-full-width-header.jpg" style="display:block;width:100%;height:auto;margin:0 auto;"/></li>
+
+
+
+Full width header or banner 1000px/500px but using `object-fit`
+
+<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><img src="headers/1000x500px-full-width-header.jpg" style="display:block;width:100%;height:300px;margin:0 auto;object-fit:cover"/></li>
+
+
+
+Full width header or banner 1000px/300px
+
+<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><img src="headers/1000x300px-full-width-banner.jpg" style="display:block;width:100%;height:auto;margin:0 auto;"/></li>
+
+
+Full width header or banner 1000px/150px
+
+<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><img src="headers/1000x150px-full-width-banner.jpg" style="display:block;width:100%;height:auto;margin:0 auto;"/></li>
+
+
+Header centered avatar 512px/512px square
+
+<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><img src="headers/512x512-header-avatar.jpg" style="display:block;max-width:100%;width:300px;min-width:270px;height:auto;margin:0 auto;"/></li>
+
+
+Header centered avatar 512px/512px round
+
+<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><img src="headers/512x512-header-avatar.jpg" style="display:block;max-width:100%;width:300px;min-width:270px;height:auto;margin:0 auto;border-radius:100% 100% 100% 100%"/></li>
+
+
+Header centered avatar 512px/512px round, image is child element
+
+<li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;padding:0;list-style:none;"><i style="display:block;max-width:100%;width:300px;min-width:270px;height:auto;margin:0 auto;text-align:center;border-radius:100% 100% 100% 100%;font-style:none;box-shadow:0 0 12px #999;padding:1em;border:7px solid rgba(60%,40%,80%,.5);"><img src="headers/512x512-header-avatar.jpg" style="display:block;max-width:100%;width:100%;min-width:200px;height:auto;margin:0 auto;border-radius:100% 100% 100% 100%"/></i></li>

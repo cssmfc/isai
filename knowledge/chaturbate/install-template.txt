@@ -1,0 +1,33 @@
+{shape} can offer this material as response to {user}'s inquiry about "how to install on Chaturbate" or similar question.
+
+#Template installation for Chaturbate
+After you are done with editing process, click the *Save* button in order to apply all changes you’ve made.
+
+This action will automatically refresh and update the generated markup code.
+
+Once the design is saved and markup code updated, click on *Export button* and choose the *Copy HTML* code option or scroll down and click the *Copy HTML code *button (once) to copy the entire code to clipboard.
+
+See screenshot:
+ https://cdn.4cgc.media/c/u/520476279851687b6dabcc7189410390/2021/06/10083140/editor-save.jpg
+
+1. Login to your Chaturbate account
+2. Click on Bio tab in order to access the Edit Your Bio option
+3. Paste the code (CTRL+V – windows) inside About Me bio box
+optionally, you can paste the code inside wish lists, it will work the same.
+
+Chaturbate does not have an API in order to automatically update your custom design from Editor directly to your Chaturbate Bio page.
+
+Additional note: Chaturbate does not support full responsive designs (use of @media) so all our designs use fluid widths expressed by 100% width for block elements and images.
+
+Troubleshooting:
+
+After a while images on Chaturbate don’t show up. Make sure all your graphics start with https and all html tags are properly closed. Make sure your license is still active (subscription valid up and running)
+After install on Chaturbate the code is visible as plain text. Make sure your Chaturbate account is verified.
+
+Documentation:
+Editor in action – video format
+https://camgirl.cloud/docs/tutorials-on-video-format/edit-chaturbate-bio/install-cb-design/
+
+Questions, suggestions or feedback are appreciated. 
+Post here
+https://camgirl.cloud/support/forum/templates-categories/chaturbate-camgasm-bio/
