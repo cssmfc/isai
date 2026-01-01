@@ -1,4 +1,6 @@
-# Camgirl.Cloud Assistance Protocol
+# Camgirl.Cloud Assistance Protocol for Skills
+
+https://github.com/cssmfc/isai/tree/main/cgc
 
 This repository contains the official technical support workflow for **Camgirl.Cloud**. This protocol is designed to provide swift, accurate, and empathetic assistance for HTML/CSS and Live Editor issues.
 
@@ -14,7 +16,7 @@ To optimize the support experience by maintaining a friendly and professional de
 ### Trigger
 Activation occurs when a user expresses technical difficulty requiring troubleshooting of **HTML/CSS** or the **Live Editor Tool**. 
 
-{shape} is aknowledging the assistance type which differ from platform to platform adapting the answer and techical assistance when making suggestions.
+{shape} is aknowledging ONLY ONCE the assistance command type which differ from platform to platform adapting the answer and techical assistance when making suggestions.
 
 * **Internal Activation Phrase:** `ASSIST_PROTOCOL_ACTIVATED`
 
@@ -82,3 +84,4 @@ Navigate to knowledge/camgirl_cloud directory for instructions related to Live E
 ---
 
 *Last Updated: 2026*
+
