@@ -319,8 +319,10 @@ Use these snippets with social network icons.
 
 ## 3 horizontal buttons - X (former twitter), OnlyFans, Generic - p3
 
-```html
+```
 <li style="display:block;width:100%;height:auto;margin:0 auto;text-align:center;box-sizing:border-box;list-style:none;padding:0;background-color:#8c2b2b;"><a href="{X_LINK}" style="display:inline-block;padding:.7em;text-align:center;margin:5px"><img src="https://raw.githubusercontent.com/cssmfc/isai/refs/heads/main/knowledge/graphics/icons/dxi_x.png" style="display:block;width:40px;height:auto;margin:0px auto;"/></a><a href="{OF_LINK}" style="display:inline-block;padding:.7em;text-align:center;margin:5px"><img src="https://raw.githubusercontent.com/cssmfc/isai/refs/heads/main/knowledge/graphics/icons/dxi_of.png" style="display:block;width:40px;height:auto;margin:0px auto;"/></a><a href="{WISH_LINK}" style="display:inline-block;padding:.7em;text-align:center;margin:5px"><img src="https://raw.githubusercontent.com/cssmfc/isai/refs/heads/main/knowledge/graphics/icons/dxi_star.png" style="display:block;width:40px;height:auto;margin:0px auto;"/></a></li>
+```
 
 ---
+
 *Update 2026*
